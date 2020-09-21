@@ -28,7 +28,7 @@ $ java Client localhost 3128 movie.Mjpeg
 
 Licensing
 ----
-Copyright 2020 Pedro Henrique R M Santos.
+Copyright 2020 Pedro Henrique R M Santos, Luiz Felipe Gonçalves B. Viana and Windysson de Souza Dezanete.
 
 Licensed under the Apache License, Version 2.0 (the "License");
 you may not use this file except in compliance with the License.
