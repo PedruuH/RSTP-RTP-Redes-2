@@ -4,15 +4,15 @@ Tarefa de Programação Streaming de Vídeo
 
 Introdução
 ----
-Tarefa de Programação referente ao Capítulo de Redes Multimídia. Neste laboratório, o alunoimplementará um servidor de streaming vídeo e um cliente que se comunicamusando  o  protocolo  de  fluxo  contínuo  em  tempo  real  (RTSP)](https://www.ietf.org/rfc/rfc2326.txt)  e  envia  dados  usando  o protocolo de tempo real (RTP)]((https://en.wikipedia.org/wiki/Real-time_Transport_Protocol). O objetivo é implementar o protocolo RTSP no cliente e implementar o empacotamento RTP no servidor.
+Tarefa de Programação referente ao Capítulo de Redes Multimídia. Neste laboratório, o alunoimplementará um servidor de streaming vídeo e um cliente que se comunicamusando  o  protocolo  de  fluxo  contínuo  em  tempo  real  (RTSP)(https://www.ietf.org/rfc/rfc2326.txt)  e  envia  dados  usando  o protocolo de tempo real (RTP)(https://en.wikipedia.org/wiki/Real-time_Transport_Protocol). O objetivo é implementar o protocolo RTSP no cliente e implementar o empacotamento RTP no servidor.
 
 
 
 Executar Cliente/Servidor
 ----
-Primeiramente, compile all `*.java` ou digite o comando `$ make`.
+Primeiramente, compilar todos os `*.java` via comando `$ make`.
 
-AApós compilar, basta executar os comandos:
+Após compilar, basta executar os comandos:
 
 ```
 $ java Server [port]
